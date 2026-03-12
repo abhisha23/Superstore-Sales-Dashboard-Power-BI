@@ -44,11 +44,6 @@ data modeling, DAX, and interactive report design.
   - Days to Ship calculated column
   - Year and Month extraction
 
-## 📁 Files
-| File | Description |
-|------|-------------|
-| Superstore_PowerBI_Dashboard.pbix | Power BI report file |
-| Sample_Superstore.csv | Source dataset |
 
 ## 📷 Screenshots
 ![Executive Overview](page1_overview.png)
